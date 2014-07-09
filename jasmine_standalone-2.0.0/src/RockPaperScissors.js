@@ -18,10 +18,9 @@ Game.prototype.winner = function() {
 	else{
   return this.player2;}
 };
+<-- the above code is ugly !! refactor. 
+
 
 Player.prototype.picks = function(pick) {
   	this.pick = pick;
 };
-// function Player() {
-
-// }

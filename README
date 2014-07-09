@@ -1,3 +1,6 @@
-Introduction to using Javascript. 
+Javascript tested using Jasmine, to recreate the rock, paper, scissors game.
 
 Attempt to recreate the game of the title using TDD JavaScript.
+
+Simple task to try TDD with Javascript and a logical problem. 
+
